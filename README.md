@@ -1,7 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Yeongsik's%20GitHub!👋&fontSize=50">
-
-
-
 ## 📚Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
